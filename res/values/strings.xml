@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GladCode.ru</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string><string name="register">Войти на сайт</string>
+    <string name="app_header">Будь на связи. gladcode.ru</string>
+    <string name="enter_button">Войти</string>
+    <bool name="analytics_enabled">true</bool>
+</resources>
